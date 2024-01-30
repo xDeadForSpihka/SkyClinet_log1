@@ -1,0 +1,9 @@
+ChangeLog [recode v1.4b2212]
+
+[+] popogpfd)
+[+] Speed -> FunTime (Grim)
+[+] TargetHud -> NurikZapen -> Mini
+[+] Wurst easter egg
+[*] Updated Grim starter config
+
+
